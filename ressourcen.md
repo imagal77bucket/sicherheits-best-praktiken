@@ -8,3 +8,4 @@
 ## Literatur
 - "The Web Application Hacker's Handbook"
 - "Security Engineering: A Guide to Building Dependable Distributed Systems"
+- "Cybersecurity and Cyberwar: What Everyone Needs to Know"
