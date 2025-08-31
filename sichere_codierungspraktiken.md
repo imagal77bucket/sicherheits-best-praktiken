@@ -9,3 +9,4 @@
 - Validierung und Bereinigung von Benutzereingaben.
 - Verwendung parametrisierten Abfragen zur Vermeidung von SQL-Injection.
 - Nutzung von Sicherheitsmechanismen wie CSRF-Tokens.
+- Escape von Benutzereingaben zur Vermeidung von XSS-Angriffen.
