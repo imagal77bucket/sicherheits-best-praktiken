@@ -10,3 +10,4 @@
 - "Security Engineering: A Guide to Building Dependable Distributed Systems"
 - "Cybersecurity and Cyberwar: What Everyone Needs to Know"
 - "Practical Cryptography for Developers"
+- "Network Security: Private Communication in a Public World"
