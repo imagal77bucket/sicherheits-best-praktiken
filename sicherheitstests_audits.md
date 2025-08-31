@@ -7,3 +7,4 @@
 ## Audits
 - Regelmäßige Sicherheitsüberprüfungen durchführen.
 - Dokumentation und Analyse von Sicherheitsvorfällen.
+- Mitarbeiterschulung zur Sensibilisierung für Sicherheitspraktiken.
