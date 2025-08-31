@@ -11,3 +11,6 @@
 - Nutzung von Sicherheitsmechanismen wie CSRF-Tokens.
 - Escape von Benutzereingaben zur Vermeidung von XSS-Angriffen.
 - Protokollierung sensibler Aktionen zur Überwachung und Auditing.
+
+## Sitzungsverwaltung
+- Gewährleistung sicherer Sitzungshandhabung, einschließlich der Verwendung von Zeitlimits und der Abmeldung inaktivierter Benutzer.
