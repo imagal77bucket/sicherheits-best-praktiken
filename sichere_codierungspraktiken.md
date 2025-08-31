@@ -15,3 +15,8 @@
 ## Sitzungsverwaltung
 - Gewährleistung einer sicheren Sitzungshandhabung, einschließlich der Verwendung von Zeitlimits.
 - Abmeldung inaktivierter Benutzer zur Erhöhung der Sicherheit und zur Vermeidung von Session-Hijacking.
+
+## API-Sicherheit
+- Authentifizierung und Autorisierung von API-Anfragen implementieren.
+- Nutzung von HTTPS, um die Datenübertragung zu sichern.
+- Überwachung und Protokollierung von API-Zugriffen zur Erkennung von Fehlverhalten.
