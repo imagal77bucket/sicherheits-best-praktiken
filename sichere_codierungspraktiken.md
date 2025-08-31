@@ -13,4 +13,5 @@
 - Protokollierung sensibler Aktionen zur Überwachung und Auditing.
 
 ## Sitzungsverwaltung
-- Gewährleistung sicherer Sitzungshandhabung, einschließlich der Verwendung von Zeitlimits und der Abmeldung inaktivierter Benutzer.
+- Gewährleistung einer sicheren Sitzungshandhabung, einschließlich der Verwendung von Zeitlimits.
+- Abmeldung inaktivierter Benutzer zur Erhöhung der Sicherheit.
