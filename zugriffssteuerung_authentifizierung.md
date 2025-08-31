@@ -1,8 +1,8 @@
 # Zugriffssteuerung und Authentifizierung
 
 ## Authentifizierungsmethoden
-- Implementierung von einer Zwei-Faktor-Authentifizierung.
-- Einsatz von starken Passwort-Richtlinien.
+- Implementierung einer Zwei-Faktor-Authentifizierung.
+- Einsatz starker Passwort-Richtlinien.
 - Unterstützung für biometrische Authentifizierung.
 
 ## Zugriffssteuerung
