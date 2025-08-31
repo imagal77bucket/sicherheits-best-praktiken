@@ -14,4 +14,4 @@
 
 ## Sitzungsverwaltung
 - Gewährleistung einer sicheren Sitzungshandhabung, einschließlich der Verwendung von Zeitlimits.
-- Abmeldung inaktivierter Benutzer zur Erhöhung der Sicherheit.
+- Abmeldung inaktivierter Benutzer zur Erhöhung der Sicherheit und zur Vermeidung von Session-Hijacking.
